@@ -1,0 +1,37 @@
+.date {
+    margin: 0px 8px;
+    font-size: 13px;
+}
+
+.time {
+    margin: 0px 8px;
+    font-size: 13px;
+}
+.p-image{
+    /* margin: 5px 0; */
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
+.layout{
+    /* border: 2px solid black; */
+    display: flex !important;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.layout2{
+    font-size: 11px;
+    margin: 25px 20px;
+    /* align-self: ; */
+}
+
+.font{
+    font-size: 10px;
+}
+.name{
+    margin: 0px 10px;
+}
+.row{
+    column-gap: 40px;
+}
